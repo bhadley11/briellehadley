@@ -50,7 +50,12 @@ icon:
 
 # Page tree
 nav:
-- Home: index.md
+  - Home: index.md
+  - About: about.md
+  - Open Science Methods:
+      - Creating a DMP: open-science/dmp.md
+      - Creating Your Own Website: open-science/website.md
+
 
 # Extra Plugins
 plugins:
