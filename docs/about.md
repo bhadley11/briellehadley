@@ -1,1 +1,5 @@
-This will be the "about me" information. 
+Welcome! My name is Brielle and I am a third-year J.D. student at the James E. Rogers College of Law. I obtained my bachelor’s degree in Cognitive Science, with an emphasis in Neuroscience, from UC-Davis. I work closely with the Natural Resource Use and Management Clinic and faculty at the College of Law who are completing empirical research in various areas. After graduation, I will clerk for the Arizona Supreme Court before joining Kirkland and Ellis in San Francisco, working in their Intellectual Property Litigation group. 
+
+Currently, I'm participating in the University of Arizona's Roots for Reslience (R4R) program. The Roots for Resilience Program provides training and support to select graduate students on open, reproducible science and computational infrastructure tools to enhance research focused on resiliency in the environment. The Roots for Resilience research fellowship program in data science is led by the Arizona Institute for Resilience (AIR), CyVerse, and the Data Science Institute (DSI). For more information about these departments and programs, please visit the Additional Information Page located in the navigation bar on the left hand side of this page. 
+
+For more information about my previous experience, I encourage you to look over my Resume. 
