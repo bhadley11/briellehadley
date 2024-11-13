@@ -20,6 +20,11 @@ theme:
     code: Roboto Mono
   palette:
     - scheme: default
+      primary: blue grey
+      accent: white
+    - scheme:
+      primary: indigo
+      accent: pink
   icon:
     logo: material/cogs
     favicon: material/cogs
@@ -44,6 +49,11 @@ static_templates:
 # Navigation
 nav:
   - Home: index.md
+  - About: about.md
+  - Open Science?: 
+    - Overview: open-science/index.md
+    - Creating a Personal Website: open-science/personalwebsite.md
+  - Contact: contact.md
 
 # Plugins
 plugins:
