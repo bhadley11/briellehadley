@@ -49,10 +49,11 @@ static_templates:
 # Navigation
 nav:
   - Home: index.md
-  - About: about.md
+  - About Me: about.md
   - Open Science?: 
     - Overview: open-science/index.md
     - Creating a Personal Website: open-science/personalwebsite.md
+  - Additional Resources: resources.md
   - Contact: contact.md
 
 # Plugins
