@@ -1,103 +1,96 @@
-site_name: Name of your website
-site_description: Tell people what this website is about
-site_author: Who you are
+# Basic Site Information
+site_name: Welcome!
+site_description: A brief description of your website's purpose
+site_author: Brielle Hadley
 site_url: 'https://foss.cyverse.org'
 
-# Repository
-repo_name: The repository name
+# Repository Information
+repo_name: briellehadley
 repo_url: 'https://github.com/CyVerse-learning-materials/foss'
 edit_uri: edit/main/docs/
+
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
 
-
-# Configuration
+# Theme Configuration
 theme:
-    name: material
-highlightjs: true
-font:
+  name: material
+  font:
     text: Roboto
-    code: Regular
-palette:
-    scheme: default
-
-# Features  
-features:
-- navigation.instant
-- navigation.tracking
-- navigation.tabs
-- navigation.tabs.sticky
-- navigation.indexes
-- navigation.top
-- toc.follow
-
-# 404 page
-static_templates:
-    - 404.html
-
-# Search feature
-include_search_page: false
-search_index_only: true
-
-# Palette and theme (uses personalized colours)
-language: en
-palette:
-    primary: custom
-    accent: custom
-icon:
+    code: Roboto Mono
+  palette:
+    - scheme: default
+  icon:
     logo: material/cogs
     favicon: material/cogs
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
 
-# Page tree
+# Search Configuration
+search:
+  indexing: all
+  search_index_only: true
+
+# Static Templates
+static_templates:
+  - 404.html
+
+# Navigation
 nav:
-- Home: index.md
+  - Home: index.md
 
-# Extra Plugins
+# Plugins
 plugins:
-    - search
-    - mkdocstrings
-    - git-revision-date
-    - mkdocs-jupyter:
-        include_source: True
-        ignore_h1_titles: True
+  - search
+  - mkdocstrings
+  - git-revision-date
+  - mkdocs-jupyter:
+      include_source: true
+      ignore_h1_titles: true
 
-# Extensions (leave as is)
+# Markdown Extensions
 markdown_extensions:
-- admonition
-- abbr
-- attr_list
-- def_list
-- footnotes
-- meta
-- md_in_html
-- toc:
-    permalink: true
-    title: On this page
-- pymdownx.arithmatex:
-    generic: true
-- pymdownx.betterem:
-    smart_enable: all
-- pymdownx.caret
-- pymdownx.critic
-- pymdownx.details
-- pymdownx.emoji:
-    emoji_index: !!python/name:materialx.emoji.twemoji
-    emoji_generator: !!python/name:materialx.emoji.to_svg
-- pymdownx.highlight
-- pymdownx.inlinehilite
-- pymdownx.keys
-- pymdownx.magiclink:
-    repo_url_shorthand: true
-    user: squidfunk
-    repo: mkdocs-material
-- pymdownx.mark
-- pymdownx.smartsymbols
-- pymdownx.superfences:
-    custom_fences:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+      title: On this page
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-- pymdownx.tabbed
-- pymdownx.tasklist:
-    custom_checkbox: true
-- pymdownx.tilde
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
