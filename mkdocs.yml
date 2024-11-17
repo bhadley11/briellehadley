@@ -2,11 +2,13 @@
 site_name: Welcome!
 site_description: A brief description of your website's purpose
 site_author: Brielle Hadley
-site_url: 'https://foss.cyverse.org'
+site_url: 'https://bhadley11.github.io/briellehadley/'
+docs_dir: docs
+
 
 # Repository Information
 repo_name: briellehadley
-repo_url: 'https://github.com/CyVerse-learning-materials/foss'
+repo_url: 'https://github.com/bhadley11/briellehadley.git'
 edit_uri: edit/main/docs/
 
 # Copyright
@@ -50,7 +52,7 @@ static_templates:
 nav:
   - Home: index.md
   - About Me: about.md
-  - Open Science?: 
+  - Open Science?:
     - Overview: open-science/index.md
     - Creating a Personal Website: open-science/personalwebsite.md
   - Additional Resources: resources.md
@@ -85,8 +87,8 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
