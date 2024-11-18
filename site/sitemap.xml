@@ -2,26 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://bhadley11.github.io/briellehadley/</loc>
-         <lastmod>2024-11-16</lastmod>
+         <lastmod>2024-11-18</lastmod>
     </url>
     <url>
          <loc>https://bhadley11.github.io/briellehadley/about/</loc>
-         <lastmod>2024-11-16</lastmod>
+         <lastmod>2024-11-18</lastmod>
     </url>
     <url>
          <loc>https://bhadley11.github.io/briellehadley/contact/</loc>
-         <lastmod>2024-11-16</lastmod>
+         <lastmod>2024-11-18</lastmod>
+    </url>
+    <url>
+         <loc>https://bhadley11.github.io/briellehadley/personalwebsite/</loc>
+         <lastmod>2024-11-18</lastmod>
     </url>
     <url>
          <loc>https://bhadley11.github.io/briellehadley/resources/</loc>
-         <lastmod>2024-11-16</lastmod>
+         <lastmod>2024-11-18</lastmod>
     </url>
     <url>
          <loc>https://bhadley11.github.io/briellehadley/open-science/</loc>
-         <lastmod>2024-11-16</lastmod>
+         <lastmod>2024-11-18</lastmod>
     </url>
     <url>
-         <loc>https://bhadley11.github.io/briellehadley/open-science/personalwebsite/</loc>
-         <lastmod>2024-11-16</lastmod>
+         <loc>https://bhadley11.github.io/briellehadley/open-science/practices/</loc>
+         <lastmod>2024-11-18</lastmod>
+    </url>
+    <url>
+         <loc>https://bhadley11.github.io/briellehadley/open-science/resources/</loc>
+         <lastmod>2024-11-18</lastmod>
     </url>
 </urlset>

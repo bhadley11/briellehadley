@@ -1,0 +1,6 @@
+img[alt="Brielle Hadley Headshot"] {
+    width: 150px; /* Adjust the size */
+    border-radius: 50%; /* Make it circular */
+    display: block;
+    margin: auto; /* Center the image */
+}

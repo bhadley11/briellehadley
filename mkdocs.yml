@@ -38,6 +38,9 @@ theme:
     - navigation.indexes
     - navigation.top
     - toc.follow
+extra_css:
+  - assets/css/custom.css
+
 
 # Search Configuration
 search:
@@ -55,7 +58,9 @@ nav:
   - Open Science:
     - Overview: open-science/index.md
     - Open Science Practices: open-science/practices.md
-    - Tools and Resources: open-science/resources.md
+    - Tools and Resources:
+      - Overview: open-science/tools-and-resources/resources.md
+      - GitHub Basics: open-science/tools-and-resources/github-basics.md
   - Creating a Personal Website: personalwebsite.md
   - Additional Resources: resources.md
   - Contact: contact.md
