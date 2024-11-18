@@ -52,11 +52,11 @@ static_templates:
 nav:
   - Home: index.md
   - About Me: about.md
-  - Open Science?:
+  - Open Science:
     - Overview: open-science/index.md
-    - Creating a Personal Website: open-science/personalwebsite.md
     - Open Science Practices: open-science/practices.md
     - Tools and Resources: open-science/resources.md
+  - Creating a Personal Website: personalwebsite.md
   - Additional Resources: resources.md
   - Contact: contact.md
 
