@@ -61,7 +61,9 @@ nav:
     - Tools and Resources:
       - Overview: open-science/tools-and-resources/resources.md
       - GitHub Basics: open-science/tools-and-resources/github-basics.md
-  - Creating a Personal Website: personalwebsite.md
+  - Creating a Personal Website:
+    - Introduction: personal-website/personalwebsite.md
+    - Using ChatGPT: personal-website/chatgpt.md
   - Contact: contact.md
 
 # Plugins
