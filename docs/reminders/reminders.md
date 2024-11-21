@@ -1,38 +1,47 @@
 # **Helpful Reminders for Coding**
 
 
-## Using the Terminal
+## **Using the Terminal**
 
 Here’s a handy list of terminal commands and prompts you can use for common tasks. They’re grouped by purpose for easier reference:
 
 ---
 
 ### **Navigation and File Management**
-1. **`ls`**  
-   - List all files and directories in the current directory.
-2. **`cd [directory_name]`**  
-   - Change to a specified directory.
-3. **`cd ..`**  
-   - Go up one directory level.
-4. **`pwd`**  
-   - Show the current directory path.
-5. **`mkdir [new_directory_name]`**  
-   - Create a new directory.
-6. **`touch [file_name]`**  
-   - Create an empty file.
-7. **`rm [file_name]`**  
-   - Delete a file.
-8. **`rm -r [directory_name]`**  
-   - Delete a directory and its contents.
+  - **`ls`**  
+      - List all files and directories in the current directory.
+
+  - **`cd [directory_name]`**  
+      - Change to a specified directory.
+
+  - **`cd ..`**  
+      - Go up one directory level.
+
+  - **`pwd`**  
+      - Show the current directory path.
+
+  - **`mkdir [new_directory_name]`**  
+      - Create a new directory.
+
+  - **`touch [file_name]`**  
+      - Create an empty file.
+
+  - **`rm [file_name]`**  
+      - Delete a file.
+
+  - **`rm -r [directory_name]`**  
+      - Delete a directory and its contents.
 
 ---
 
 ### **Git Commands**
-9. **`git clone [repository_url]`**  
+- **`git clone [repository_url]`**  
    - Clone a repository from GitHub to your computer.
-10. **`git status`**  
+
+- **`git status`**  
     - Check the status of your Git repository.
-11. **`git add [file_name]` or `git add .`**  
+
+- **`git add [file_name]` or `git add .`**  
     - Stage a file or all files for a commit.
 12. **`git commit -m "commit message"`**  
     - Save staged changes with a message.
@@ -46,7 +55,7 @@ Here’s a handy list of terminal commands and prompts you can use for common ta
 ---
 
 ### **Working with Files**
-16. **`cat [file_name]`**  
+-  **`cat [file_name]`**  
     - Display the contents of a file.
 17. **`nano [file_name]` or `vim [file_name]`**  
     - Open a file in a terminal-based text editor.
@@ -60,7 +69,7 @@ Here’s a handy list of terminal commands and prompts you can use for common ta
 ---
 
 ### **Python and Virtual Environments**
-21. **`python3 [script_name.py]`**  
+- **`python3 [script_name.py]`**  
     - Run a Python script.
 22. **`python3 -m venv [env_name]`**  
     - Create a Python virtual environment.
@@ -74,7 +83,7 @@ Here’s a handy list of terminal commands and prompts you can use for common ta
 ---
 
 ### **MkDocs and Web Development**
-26. **`mkdocs new [project_name]`**  
+-  **`mkdocs new [project_name]`**  
     - Create a new MkDocs project.
 27. **`mkdocs serve`**  
     - Preview your MkDocs site locally.
@@ -88,7 +97,7 @@ Here’s a handy list of terminal commands and prompts you can use for common ta
 ---
 
 ### **Shortcuts and System Info**
-31. **`ctrl + c`**  
+-  **`ctrl + c`**  
     - Cancel the current command or process.
 32. **`clear`**  
     - Clear the terminal screen.
@@ -102,7 +111,7 @@ Here’s a handy list of terminal commands and prompts you can use for common ta
 ---
 
 ### **Search and Text Manipulation**
-36. **`grep [search_term] [file_name]`**  
+-  **`grep [search_term] [file_name]`**  
     - Search for a term in a file.
 37. **`find . -name "[file_name]"`**  
     - Search for a file in the current directory and subdirectories.
@@ -114,23 +123,22 @@ Here’s a handy list of terminal commands and prompts you can use for common ta
 ---
 
 ### **Networking and Internet**
-40. **`curl [url]`**  
+-  **`curl [url]`**  
     - Fetch data from a URL.
 41. **`ping [hostname]`**  
     - Test the connection to a server.
 
 ---
 
-This list covers many common tasks, but you can customize it with additional commands based on your workflow!
 
-## Using Markdown
+## **Using Markdown**
 
 Here’s a a similar list of markdown features that you can reference when building a website!
 
 ---
 
 ### **Headings**
-1. **`# Heading 1`**  
+-  **`# Heading 1`**  
    - Use `#` for the largest heading, and add more `#` for smaller headings (up to six levels):  
      **Example:**  
      ```markdown
@@ -143,7 +151,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Formatting Text**
-3. **Bold:**  
+- **Bold:**  
    - Use `**` or `__` around text for **bold**:  
      ```markdown
      **Bold Text**  
@@ -169,7 +177,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Lists**
-7. **Unordered Lists:**  
+-  **Unordered Lists:**  
    - Use `-`, `+`, or `*` for bullets:  
      ```markdown
      - Item 1  
@@ -191,7 +199,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Links and Images**
-10. **Links:**  
+-  **Links:**  
     - Use `[link text](URL)` to create hyperlinks:  
       ```markdown
       [Google](https://www.google.com)
@@ -205,7 +213,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Code and Syntax Highlighting**
-12. **Inline Code:**  
+-  **Inline Code:**  
     - Use backticks `` ` `` for inline code:  
       ```markdown
       Use the `ls` command to list files.
@@ -221,7 +229,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Tables**
-14. **Basic Table Syntax:**  
+-  **Basic Table Syntax:**  
     - Use pipes `|` and hyphens `-` to create tables:  
       ```markdown
       | Header 1 | Header 2 |  
@@ -233,7 +241,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Blockquotes**
-15. **Blockquotes:**  
+-  **Blockquotes:**  
     - Use `>` for quoting text:  
       ```markdown
       > This is a blockquote.
@@ -242,7 +250,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Horizontal Rules**
-16. **Horizontal Line:**  
+-  **Horizontal Line:**  
     - Use `---`, `***`, or `___` to create a horizontal rule:  
       ```markdown
       ---
@@ -251,7 +259,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Lists with Checkboxes**
-17. **Task Lists:**  
+-  **Task Lists:**  
     - Use `- [ ]` for an unchecked box and `- [x]` for a checked box:  
       ```markdown
       - [ ] Task 1  
@@ -261,7 +269,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Special Characters**
-18. **Escape Special Characters:**  
+-  **Escape Special Characters:**  
     - Use a backslash `\` before special Markdown symbols to display them as text:  
       ```markdown
       Use `\*` to show an asterisk.
@@ -270,7 +278,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Tips for Advanced Markdown**
-19. **Use Markdown Preview:**  
+-  **Use Markdown Preview:**  
     - In editors like Atom or VS Code, use the preview feature (`Ctrl+Shift+M` in Atom) to see rendered Markdown.
 20. **Use HTML for Extensions:**  
     - You can embed HTML directly for features not natively supported by Markdown:  
@@ -284,7 +292,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Markdown for GitHub**
-21. **GitHub-Flavored Markdown (GFM):**  
+-  **GitHub-Flavored Markdown (GFM):**  
     - Supports extended features like task lists, tables, and emoji:  
       ```markdown
       - [ ] GitHub supports task lists  
@@ -299,7 +307,7 @@ Here’s a a similar list of markdown features that you can reference when build
 ---
 
 ### **Keep It Readable**
-23. **Break lines by adding two spaces** at the end of a line to avoid clutter in long paragraphs.  
+-  **Break lines by adding two spaces** at the end of a line to avoid clutter in long paragraphs.  
 24. **Use headings, lists, and horizontal rules** to structure content logically for readability.
 
 This list can serve as a quick reference when you're working with Markdown!
