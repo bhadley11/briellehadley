@@ -1,5 +1,1 @@
-# FOSS-mkdocs-template
-
-Import or Fork this repository.
-
-This repository is a template for creating a GitHub Pages website, sister to the [FOSS course week 3 tutorial](https://foss.cyverse.org/03_documentation_communication/#hands-on-building-a-github-pages-website-using-mkdocs).
+This repository hosts a website that I created for my Capstone Project during my time as a Roots for Resilience Fellow at the University of Arizona. The purpose of the website is to demonstrate (1) the accessibility of creating websites, (2) an introduction to the concepts and tools utilized in Open Science, and (3) an introduction on how to create websites using markdown in GitHub. 

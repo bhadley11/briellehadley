@@ -17,11 +17,14 @@ Creating your own personal website might sound intimidating, but it's surprising
 This can be achieved by either (1) creating a new repository (described below), or (2)forking an existing template.
 ### **Using a Template**
 If you would like to use a template, you can fork [this repository](https://github.com/CyVerse-learning-materials/FOSS-mkdocs-template) created by the Cyverse Team at the University of Arizona.
-1. **Log in to GitHub**
-2. **Open Template**
+
+  1. **Log in to GitHub**
+
+  2. **Open Template**
     - Select the link to the template (above).
-3. **Fork the Repository**
-This step essentially creates a copy of the template that will be your own, housed in your own GitHub account.
+
+  3. **Fork the Repository**
+    - This step essentially creates a copy of the template that will be your own, housed in your own GitHub account.
 
   - **Select** the green "Code" button.
 
