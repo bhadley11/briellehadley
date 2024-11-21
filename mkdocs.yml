@@ -64,6 +64,8 @@ nav:
   - Creating a Personal Website:
     - Introduction: personal-website/personalwebsite.md
     - Using ChatGPT: personal-website/chatgpt.md
+  - Reminders:
+    - reminders/reminders.md
   - Contact: contact.md
 
 # Plugins
