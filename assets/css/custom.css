@@ -1,0 +1,12 @@
+img[alt="Brielle Hadley Headshot"] {
+    width: 150px; /* Adjust the size */
+    border-radius: 50%; /* Make it circular */
+    display: block;
+    margin: auto; /* Center the image */
+}
+.float-left {
+    float: left;
+    margin-right: 20px; /* Space between the image and text */
+    margin-bottom: 20px; /* Space below the image */
+    width: 150px; /* Adjust size as needed */
+    border-radius: 50%; /* Keep the circular shape */
