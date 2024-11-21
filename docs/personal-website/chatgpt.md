@@ -1,4 +1,4 @@
-Here are 5-10 example prompts that someone could use to learn about or create a website using Markdown and GitHub:
+This page includes some example prompts that you could use to begin learning about how to create a website using Markdown and GitHub:
 
 ---
 
